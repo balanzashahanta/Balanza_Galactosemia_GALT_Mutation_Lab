@@ -3,7 +3,7 @@
 **Student:** Shahanta Dawn B. Balanza  
 **Disease:** Classic Galactosemia  
 **Gene:** GALT  
-**Documented Variant:** NM_000155.4:c.563A>G (p.Gln188Arg)
+**Documented Variant:** NM_000155.4:c.563A>G (p.Gln188Arg)  
 **Reference Transcript Accession:** NM_000155.4  
 **Reference Protein Accession:** NP_000146.2  
 **ClinVar Accession:** RCV000825563.20  
