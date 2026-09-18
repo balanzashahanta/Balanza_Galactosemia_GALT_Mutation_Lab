@@ -1,32 +1,31 @@
-WT vs Documented Mutant GALT Protein Alignment
-================================================
+WT vs Documented Mutant GALT Protein Sequence Comparison
+==========================================================
 
 Gene: GALT
 Reference transcript: NM_000155.4
 Reference protein: NP_000146.2
 
-Documented mutation:
+Documented variant:
 NM_000155.4:c.563A>G
-Protein change: p.Gln188Arg (Q188R)
+Protein consequence: p.Gln188Arg (Q188R)
 Mutation type: Missense
 
-WT protein length: 379 aa
-Mutant protein length: 379 aa
+WT protein length: 379 amino acids
+Mutant protein length: 379 amino acids
 
-Protein-level comparison:
-Position 188:
-WT:     Q (Glutamine)
-Mutant: R (Arginine)
+Sequence region containing the variant:
 
-Alignment result:
-WT:     ...MGC SNPHPHCQVWASSFL...
-Mutant: ...MGC SNPHPHCRVWASSFL...
-                  ^
-              Q188R
+WT:     MGCSNPHPHCQVWASSFL
+Mutant: MGCSNPHPHCRVWASSFL
+                 Q188R
 
-Summary:
-The documented c.563A>G mutation produces a single amino-acid
-substitution at position 188, changing glutamine (Q) to arginine (R).
-No amino acids are inserted or deleted, no frameshift occurs, and
-the predicted protein length remains 379 amino acids. No premature
-stop codon is introduced.
+Comparison:
+The documented mutation produces a single amino-acid substitution
+at position 188, changing glutamine (Q) to arginine (R). No amino
+acids are inserted or deleted, the reading frame is unchanged, and
+no premature stop codon is introduced. The predicted protein length
+remains 379 amino acids.
+
+Conclusion:
+The c.563A>G nucleotide substitution results in the missense
+protein change p.Gln188Arg (Q188R).
